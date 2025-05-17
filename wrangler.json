@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "retromods-backend-but-on-cloudflare",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "05aa5d79-73b1-41c4-9ac3-9e8989d1f20a",
+      "database_name": "steep-fire-81ba-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
